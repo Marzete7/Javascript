@@ -1,0 +1,33 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color: aqua;
+}
+
+h1
+{
+    margin-left: 10px;
+}
+
+#unico
+{
+    margin: 0 auto;
+    margin-top: 50px;
+    max-width: 500px;
+    background-color: white;
+    border-radius: 10px;
+    border: 2px solid black;
+
+}
+
+input
+{
+    text-align: center;
+    margin-left: 10px;
+}

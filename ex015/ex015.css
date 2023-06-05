@@ -1,0 +1,53 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color: cadetblue;
+}
+
+div
+{
+   
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: white;
+    max-width: 500px;
+    min-height: 150px;
+    border-radius: 5px;
+    box-shadow: 3px 4px 5px black;
+}
+
+button
+{
+    padding: 5px;
+    margin: 5px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+button:hover
+{
+    background-color: black;
+    color: white;
+    transition: 1000ms;
+}
+
+input
+{
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+input:hover
+{
+    background-color: black;
+    color: white;
+    transition: 1000ms;
+    border: solid red
+}

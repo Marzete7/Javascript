@@ -1,0 +1,42 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color: darkolivegreen;
+}
+h1
+{
+    text-align: center;
+}
+
+div
+{
+    
+    max-width: 500px;
+    min-height: 100px;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 3px 5px 6px black;
+    margin: 0 auto;
+}
+
+input
+{
+    margin-top: 10px;
+    max-width: 200px;
+}
+
+button
+{
+    margin-top: 10px;
+    max-width: 100px;
+    margin: 0 auto;
+    display: flex;
+}
+

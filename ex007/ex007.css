@@ -1,0 +1,95 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color: rgb(116, 196, 250);
+}
+
+h1
+{
+    text-align: center;
+}
+
+.principal-1
+{
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 30px;
+    max-width: 500px;
+    justify-content: space-around;
+    border-radius: 10px;
+    background-color: white;
+    
+}
+
+.principal-1 h5 
+{
+    margin-top: 10px;
+}
+
+.div-unica
+{
+    margin-top: 10px;
+}
+
+#unico-p
+{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+    color: red;
+}
+
+
+.principal-2
+{
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 30px;
+    max-width: 500px;
+    justify-content: space-around;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.baska
+{
+    margin-top: 10px;
+}
+
+.p
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+button
+{
+    margin-bottom: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+h5
+{
+    background-color: aqua;
+    padding: 10px;
+}
+
+h3
+{
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    text-shadow: 2px 3px 4px black;
+}

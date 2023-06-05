@@ -1,0 +1,60 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color: darkolivegreen;
+}
+h1
+{
+    text-align: center;
+}
+
+section
+{
+    max-width: 500px;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 3px 5px 6px black;
+    margin: 0 auto;
+}
+
+input
+{
+    margin-top: 10px;
+    max-width: 200px;
+}
+
+button
+{
+    margin-top: 10px;
+    max-width: 100px;
+    text-align: center;
+}
+p
+{
+    text-align: center;
+}
+h3
+{
+    text-align: center;
+}
+
+#resultado {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.item {
+    width: fit-content;
+    display: flex;
+}
+.item img {
+    margin-left: 10px;
+}
